@@ -1,0 +1,8 @@
+.card {
+    width: 300px; /* Set the desired width for the card */
+    text-align: center;
+    margin: 0 auto;
+  }
+.temperature{
+    font-size: 80px;
+}
